@@ -19,7 +19,7 @@ Software Setup:
           •	url_launcher: For making calls and sending messages. 
           •	audioplayers: For alarm functionality.   
 Feature:
-        1. SOS Alert:  
+1. SOS Alert:  
         •	Code the functionality to send a distress message  via SMS to emergency contacts.  
         •	Test the feature by triggering SOS alerts under various network conditions.  
 
@@ -36,4 +36,6 @@ Feature:
         •	Verify sound output and volume levels on different devices.
 5. Safety Tips:  
         •	Add a module containing practical safety advice and self-defense tips.  
-        •	Ensure content is readable and accessible within the app interface.  
+        •	Ensure content is readable and accessible within the app interface.
+![Screenshot 2024-11-22 205957](https://github.com/user-attachments/assets/710b77dd-ca9b-4241-a9b5-0e1b51568e92)
+
