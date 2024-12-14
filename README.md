@@ -37,6 +37,6 @@ Feature:
 5. Safety Tips:  
         •	Add a module containing practical safety advice and self-defense tips.  
         •	Ensure content is readable and accessible within the app interface.
-<img src="https://github.com/user-attachments/assets/710b77dd-ca9b-4241-a9b5-0e1b51568e92" alt="Screenshot 2024-11-22 205957" width="300">
+                    <img src="https://github.com/user-attachments/assets/710b77dd-ca9b-4241-a9b5-0e1b51568e92" alt="Screenshot 2024-11-22 205957" width="300">
 
 
