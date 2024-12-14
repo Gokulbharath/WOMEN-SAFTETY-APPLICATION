@@ -20,17 +20,28 @@ Software Setup:
           •	audioplayers: For alarm functionality.   
 Feature:
         1. SOS Alert:  
-        •	Code the functionality to send a distress message with GPS location via SMS to emergency contacts.  
+        •	Code the functionality to send a distress message  via SMS to emergency contacts.  
         •	Test the feature by triggering SOS alerts under various network conditions.  
-        2. Emergency Call:  
+        ![image](https://github.com/user-attachments/assets/8cd67323-781e-4889-940b-e3d8c62e0546)
+        ![image](https://github.com/user-attachments/assets/8ebfd9be-dac2-444b-ac48-7037b2206d04)
+
+2. Emergency Call:  
         •	Implement the quick-dial feature for predefined emergency numbers.  
         •	Validate the calling functionality on both Android and iOS platforms.  
-        3. Fake Call:  
+        ![image](https://github.com/user-attachments/assets/ac320d65-776f-4d28-b3e2-ed120f465aa0)
+![image](https://github.com/user-attachments/assets/e2614bfe-4acb-4594-a090-34bfcbb6c1f1)
+
+ 3. Fake Call:  
         •	Simulate an incoming call using pre-recorded messages or customizable caller IDs.  
-        •	Test the feature for usability and effectiveness in distraction scenarios.  
-        4. Play Alarm:  
+        •	Test the feature for usability and effectiveness in distraction scenarios.
+    ![image](https://github.com/user-attachments/assets/df472066-ca38-4750-81d6-9945b756cb71)
+
+4. Play Alarm:  
         •	Configure the app to play a loud alarm sound using the audioplayers library. 
-        •	Verify sound output and volume levels on different devices.  
-        5. Safety Tips:  
+        •	Verify sound output and volume levels on different devices.
+   ![image](https://github.com/user-attachments/assets/58f5884c-85a7-42d1-816e-3fd560afaafd)
+![image](https://github.com/user-attachments/assets/eac7bfc6-dee9-4579-8c4f-68e9671eba99)
+5. Safety Tips:  
         •	Add a module containing practical safety advice and self-defense tips.  
         •	Ensure content is readable and accessible within the app interface.  
+![image](https://github.com/user-attachments/assets/9791a50c-6fcc-4b7a-9d9f-73154fd7921c)
